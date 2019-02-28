@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stundenlohn</string>
+    <string name="normal">6:00 bis 20:00</string>
+    <string name="nachtschicht">20:00 bis 6:00</string>
+    <string name="sonntags">Sonntags</string>
+    <string name="feiertags">Feiertags</string>
+    <string name="ergebnis"></string>
+    <string name="berechnen">Berechnen</string>
+</resources>
